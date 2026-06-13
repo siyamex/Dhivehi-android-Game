@@ -1,0 +1,6 @@
+{
+  "name": "Dhivehi Kids",
+  "description": "An interactive, gamified educational platform for children to learn Dhivehi (Thaana), vocabulary, math, and Maldivian culture with AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
